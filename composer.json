@@ -1,5 +1,5 @@
 {
-    "name": "botman/driver-facebook",
+    "name": "campanda/botman-driver-facebook",
     "license": "MIT",
     "description": "Facebook Messenger driver for BotMan",
     "keywords": [
@@ -14,11 +14,14 @@
         {
             "name": "Marcel Pociot",
             "email": "m.pociot@gmail.com"
+        },
+        {
+            "name": "Helmut Hoffer von Ankershoffen",
+            "email": "helmut.hoffer.von.ankershoffen@campanda.com"
         }
     ],
     "require": {
-        "php": ">=7.0",
-        "botman/botman": "~2.1|~3.0"
+        "php": ">=7.0"
     },
     "require-dev": {
         "botman/studio-addons": "~1.0",
